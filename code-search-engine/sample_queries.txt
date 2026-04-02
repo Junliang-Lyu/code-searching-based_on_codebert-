@@ -1,8 +1,0 @@
-sort a list in ascending order
-read a csv file with pandas
-compute cosine similarity between vectors
-find duplicate items in a list
-parse json from a file
-merge two dictionaries in python
-check whether a file exists
-convert a string to lowercase
