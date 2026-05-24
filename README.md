@@ -8,6 +8,12 @@ This project implements a local code search pipeline for Python code. It encodes
 
 The project was built as a portfolio / research-style implementation focused on code retrieval, indexing, and ranking.
 
+## Portfolio Highlights
+
+- Implements a complete retrieval pipeline: dataset loading, code embedding, FAISS indexing, search, and evaluation.
+- Demonstrates ML engineering work beyond model calls by handling indexing, retrieval metrics, and large local artifacts.
+- Provides measurable retrieval results that can be discussed in interviews: **MRR@10 = 0.40** and **Recall@5 = 0.45** over a large code corpus.
+
 ## Features
 
 - GraphCodeBERT-based code embeddings
